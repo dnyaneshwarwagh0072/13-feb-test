@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(110, 124, 124);
+}
+#name{
+    text-align: center;
+    color: rgb(214, 214, 243);
+}
+#photo{
+    width: 80%;
+    text-align: center;
+    background-color: rgb(179, 158, 158);
+}
+img{
+    border-radius: 50%;
+}
+#text{
+    margin-left: 10%;
+    color: rgb(255, 254, 254);
+}
